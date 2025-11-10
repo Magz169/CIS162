@@ -1,0 +1,24 @@
+@charset "utf-8";   
+
+/* Body Styles */
+body { background-color: plum;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+/* Header */
+header {background-color: rgb(156, 76, 231);}
+
+h1 {color: rebeccapurple;}
+
+/* Navigation */
+nav > ol { line-height: 2em;
+    list-style-type: none;
+    padding-left: 5px;}
+
+/* Section */
+section {background-color: mistyrose;
+        width: 75%;}
+
+
+/* Footer */
+footer {background-color: rgb(156, 76, 231);
+       color: rebeccapurple;}
